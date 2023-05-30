@@ -1,0 +1,34 @@
+.weather-content{
+    box-shadow: rgba(52, 52, 59, 0.25) 0px 50px 100px -20px, rgba(64, 64, 64, 0.3) 0px 30px 60px -30px;
+    max-width: 350px;
+    text-align: center;
+    padding: 20px 20px 50px;
+    margin: auto;
+    background-color: white;
+    border-radius: 9px;}
+
+.weather-content h1{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #AE8F32;}
+
+.weather-content p{
+    color: #AE8F32;}
+
+.result{
+    margin-bottom: 8%;}
+
+.result p{
+    margin: 5px 0 5px;}
+
+.result h2{
+    font-size: 72px;}
+
+.weather-content input{
+    background-color: #AE8F32;
+    border: none;
+    font-size: 1rem;
+    border-radius: 3px;}
+
+.weather-content input:focus{
+    outline: none;}
